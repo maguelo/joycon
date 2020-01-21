@@ -4,6 +4,7 @@ Joycon driver tested in Ubuntu 18.04
 ## Install in linux 
 
 sudo apt install libhidapi-hidraw0
+
 sudo pip3 install hid
 
 ## Based on:
