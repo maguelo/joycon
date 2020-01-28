@@ -7,7 +7,7 @@
 from setuptools import setup
 
 setup(name='joycon',
-      version='1.0',
+      version='1.0.1',
       description='Driver for Nintento joycon',
       author='Miguel Maldonado',
       author_email='miguelangelmal@gmail.com',
